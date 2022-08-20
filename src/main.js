@@ -5,7 +5,7 @@ import App from './App.vue';
 Vue.use(VueRouter);
 
 const routes = [
-  { path: '/', component: App }
+  { path: './', component: App }
 ];
 
 const router = new VueRouter({
